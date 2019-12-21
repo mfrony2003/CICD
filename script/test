@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Hello World"
 ./node_modules/.bin/mocha ./test/test.js
