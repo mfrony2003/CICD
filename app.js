@@ -2,8 +2,6 @@ var express = require('express');
 
 var app = express();
 
-//var passport = require("passport");
-var passport = require("passport");
 
 app.get('/', function (req, res) {
     res.send('Hello World!');
