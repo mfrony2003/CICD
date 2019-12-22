@@ -4,7 +4,8 @@
   "description": "This is a basic application",
   "main": "app.js",
   "scripts": {
-    "test": "hellow"
+    "start": "app.js",
+    "test": "mocha"
   },
   "keywords": [
     "keyworkds"
